@@ -1,0 +1,3 @@
+ *极客时间K8S专栏练习*
+
+[[file:imgs/poster.jpg][poster]]
